@@ -1,5 +1,5 @@
 export type Headlines = {
-  id: number;
+  id: string;
   headline: string;
   icon?: string;
   link: string;
